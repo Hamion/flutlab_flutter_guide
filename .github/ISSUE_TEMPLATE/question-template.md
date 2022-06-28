@@ -1,6 +1,6 @@
 ---
 name: Question Template
-about: This template is created to help with requesting answers for your questions.
+about: This template was created to help with requesting answers for your questions.
 title: "[QUESTION]"
 labels: question
 assignees: Hamion
